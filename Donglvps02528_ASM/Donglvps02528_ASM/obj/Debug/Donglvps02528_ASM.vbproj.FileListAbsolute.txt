@@ -50,7 +50,7 @@ G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\o
 G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmyesno.resources
 G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.Resources.resources
 G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.vbproj.GenerateResource.Cache
-G:\Fpoly\điện toán đám mây\Phucbhps02508ASM\Donglvps02528_ASM\bin\Debug\Donglvps02528_ASM.exe.config
-G:\Fpoly\điện toán đám mây\Phucbhps02508ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.exe
-G:\Fpoly\điện toán đám mây\Phucbhps02508ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.xml
-G:\Fpoly\điện toán đám mây\Phucbhps02508ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.pdb
+G:\Fpoly\điện toán đám mây\Phucbhps02508ASM\Donglvps02528_ASM\Donglvps02528_ASM\bin\Debug\Donglvps02528_ASM.exe.config
+G:\Fpoly\điện toán đám mây\Phucbhps02508ASM\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.exe
+G:\Fpoly\điện toán đám mây\Phucbhps02508ASM\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.xml
+G:\Fpoly\điện toán đám mây\Phucbhps02508ASM\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.pdb
