@@ -1,0 +1,56 @@
+C:\Users\kaka\AppData\Local\Temporary Projects\Welcome\bin\Debug\Welcome.exe.config
+C:\Users\kaka\AppData\Local\Temporary Projects\Welcome\bin\Debug\Welcome.exe
+C:\Users\kaka\AppData\Local\Temporary Projects\Welcome\bin\Debug\Welcome.pdb
+C:\Users\kaka\AppData\Local\Temporary Projects\Welcome\bin\Debug\Welcome.xml
+C:\Users\kaka\AppData\Local\Temporary Projects\Welcome\obj\Debug\Welcome.frmWelcome.resources
+C:\Users\kaka\AppData\Local\Temporary Projects\Welcome\obj\Debug\Welcome.Resources.resources
+C:\Users\kaka\AppData\Local\Temporary Projects\Welcome\obj\Debug\Donglvps02528_ASM.vbproj.GenerateResource.Cache
+C:\Users\kaka\AppData\Local\Temporary Projects\Welcome\obj\Debug\Welcome.exe
+C:\Users\kaka\AppData\Local\Temporary Projects\Welcome\obj\Debug\Welcome.xml
+C:\Users\kaka\AppData\Local\Temporary Projects\Welcome\obj\Debug\Welcome.pdb
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\bin\Debug\Donglvps02528_ASM.exe.config
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\bin\Debug\Donglvps02528_ASM.exe
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\bin\Debug\Donglvps02528_ASM.pdb
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\bin\Debug\Donglvps02528_ASM.xml
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmWelcome.resources
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.Resources.resources
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.vbproj.GenerateResource.Cache
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.exe
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.xml
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.pdb
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmLogin.resources
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmMain.resources
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmyesno.resources
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmAccountManagerment.resources
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmCustomer.resources
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmOrders.resources
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmProduct.resources
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmProCategories.resources
+C:\Users\kaka\Documents\Visual Studio 2012\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmInvoices.resources
+D:\FPT University\Projects\Donglvps02528_ASM\Donglvps02528_ASM\bin\Debug\Donglvps02528_ASM.exe.config
+D:\FPT University\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.exe
+D:\FPT University\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.xml
+D:\FPT University\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.pdb
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\bin\Debug\Donglvps02528_ASM.exe.config
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.exe
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.xml
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.pdb
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\bin\Debug\Donglvps02528_ASM.exe
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\bin\Debug\Donglvps02528_ASM.pdb
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\bin\Debug\Donglvps02528_ASM.xml
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmAccountManagerment.resources
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmCustomer.resources
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmInvoices.resources
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmLogin.resources
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmMain.resources
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmOrders.resources
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmProCategories.resources
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmProduct.resources
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmWelcome.resources
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.frmyesno.resources
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Welcome.Resources.resources
+G:\Fpoly\điện toán đám mây\Projects\Donglvps02528_ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.vbproj.GenerateResource.Cache
+G:\Fpoly\điện toán đám mây\Phucbhps02508ASM\Donglvps02528_ASM\bin\Debug\Donglvps02528_ASM.exe.config
+G:\Fpoly\điện toán đám mây\Phucbhps02508ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.exe
+G:\Fpoly\điện toán đám mây\Phucbhps02508ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.xml
+G:\Fpoly\điện toán đám mây\Phucbhps02508ASM\Donglvps02528_ASM\obj\Debug\Donglvps02528_ASM.pdb
